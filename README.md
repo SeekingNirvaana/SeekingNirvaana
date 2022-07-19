@@ -11,7 +11,7 @@
       • Developing ML algorithms to predict patterns created by data anomalies.
       • Recommending remedial actions to manage and optimize maintenance resources.
       
--🌱 In my free time I love: 
+- 🌱 In my free time I love: 
       • Reading books.
       • Enjoy curating, creating and sharing digital art in my free time. 
       • Apart from that, and actively advocate for Ecological Sustainability.
